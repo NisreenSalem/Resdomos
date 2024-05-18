@@ -1,0 +1,105 @@
+{
+    "appetizers": [
+        {
+            "name": "Bruschetta",
+            "description": "Grilled bread garnished with tomatoes, garlic, and basil.",
+            "price": "$6.99",
+            "ingredients": "Bread, Tomatoes, Garlic, Basil, Olive Oil",
+            "image":"https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        },
+        {
+            "name": "Stuffed Mushrooms",
+            "description": "Mushrooms filled with cheese and herbs.",
+            "price": "$8.99",
+            "ingredients": "Mushrooms, Cheese, Herbs, Breadcrumbs",
+            "image":"https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "name": "Garlic Bread",
+            "description": "Toasted bread with garlic and butter.",
+            "price": "$4.99",
+            "ingredients": "Bread, Garlic, Butter, Parsley",
+            "image":"https://images.pexels.com/photos/1718446/pexels-photo-1718446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        }
+    ],
+    "mainCourses": [
+        {
+            "name": "Grilled Salmon",
+            "description": "Fresh salmon fillet grilled to perfection.",
+            "price": "$18.99",
+            "ingredients": "Salmon, Lemon, Dill, Olive Oil",
+            "image":"https://images.pexels.com/photos/3763847/pexels-photo-3763847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        },
+        {
+            "name": "Chicken Alfredo",
+            "description": "Pasta with creamy Alfredo sauce and grilled chicken.",
+            "price": "$15.99",
+            "ingredients": "Pasta, Chicken, Alfredo Sauce, Parmesan",
+            "image":"https://images.pexels.com/photos/11220209/pexels-photo-11220209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        },
+        {
+            "name": "Beef Steak",
+            "description": "Juicy beef steak with a side of vegetables.",
+            "price": "$22.99",
+            "ingredients": "Beef, Vegetables, Spices",
+            "image":"https://images.pexels.com/photos/1251208/pexels-photo-1251208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Chocolate Lava Cake",
+            "description": "Warm chocolate cake with a molten center.",
+            "price": "$7.99",
+            "ingredients": "Chocolate, Flour, Eggs, Sugar, Butter",
+            "image":"https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        },
+        {
+            "name": "Tiramisu",
+            "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+            "price": "$6.99",
+            "ingredients": "Ladyfingers, Coffee, Mascarpone, Cocoa",
+            "image":"https://images.pexels.com/photos/6880219/pexels-photo-6880219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        },
+        {
+            "name": "Cheesecake",
+            "description": "Creamy cheesecake with a graham cracker crust.",
+            "price": "$5.99",
+            "ingredients": "Cream Cheese, Sugar, Eggs, Graham Crackers",
+            "image":"https://images.pexels.com/photos/4051737/pexels-photo-4051737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        }
+    ],
+    "beverages": [
+        {
+            "name": "Coffee",
+            "description": "Freshly brewed coffee.",
+            "price": "$2.99",
+            "ingredients": "Coffee Beans, Water",
+            "image":"https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        },
+        {
+            "name": "Orange Juice",
+            "description": "Freshly squeezed orange juice.",
+            "price": "$3.99",
+            "ingredients": "Oranges",
+            "image":"https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        },
+        {
+            "name": "Lemonade",
+            "description": "Refreshing lemonade made with fresh lemons.",
+            "price": "$2.99",
+            "ingredients": "Lemons, Sugar, Water",
+            "image":"https://images.pexels.com/photos/2109099/pexels-photo-2109099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+        }
+    ]
+}
